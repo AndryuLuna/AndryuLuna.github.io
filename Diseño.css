@@ -1,0 +1,81 @@
+h1, h3, h6 {
+	font-family: 'Roboto', sans-serif;
+}
+body {
+	font-family: 'Open Sans', sans-serif;
+	padding: 20px;
+	background-image: url("Fotos/fondo.webp");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+h1 {
+	font-size: 25px;
+  margin-top: 0;
+  margin-bottom: 15px;
+  color: #ED6A5A;
+}
+h2 {
+	color: #9EA93F;
+}
+h3 {
+	font-size: 22px;
+	color: #7D82B8;
+}
+h6 {
+	font-size: 15px;
+	color: #065143;
+}
+.established {
+	font-style: italic;
+}
+p {
+	text-align: justify;
+}
+.pintura {
+	text-align: center;
+}
+h1, h3 ,h6 {
+	text-align: center;
+}
+a {
+	text-align: center;
+}
+video {
+	text-align: center;
+}
+.foto1{
+	width: 400px;
+	height: 600px;
+}
+.foto2{
+	width: 400px;
+	height: 600px;
+}
+.gif1 {
+	width: 700px;
+	height: 400px;
+}
+.foto3 {
+	width: 400px;
+	height: 600px;
+}
+.foto4 {
+	width: 400px;
+	height: 600px;
+}
+.foto5 {
+	width: 400px;
+	height: 600px;
+}
+.foto6 {
+	width: 400px;
+	height: 600px;
+}
+.foto7 {
+	width: 300px;
+	height: 500px;
+}
+.alineate {
+	text-align: center;
+}
